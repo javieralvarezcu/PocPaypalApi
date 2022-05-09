@@ -20,7 +20,6 @@ namespace PocPaypalApi
 
             var stringTask = client.GetStringAsync("https://api-m.sandbox.paypal.com/v1/reporting/transactions?start_date=2022-05-06T00:00:00Z&end_date=2022-05-09T00:00:00Z");
 
-            //var feed = await client.GetFromJsonAsync<Rootobject>("https://api-m.sandbox.paypal.com/v1/reporting/transactions?start_date=2022-05-06T00:00:00Z&end_date=2022-05-09T00:00:00Z");
             var feed = System.Text.Json.JsonSerializer.Deserialize<Rootobject>(stringTask.Result);
 
             Console.WriteLine("\n\n-----DESERIALIZED DATA DEMO-----\n\n");
