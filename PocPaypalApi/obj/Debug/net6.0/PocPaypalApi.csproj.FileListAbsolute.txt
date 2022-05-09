@@ -1,0 +1,17 @@
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\bin\Debug\net6.0\PocPaypalApi.exe
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\bin\Debug\net6.0\PocPaypalApi.deps.json
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\bin\Debug\net6.0\PocPaypalApi.runtimeconfig.json
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\bin\Debug\net6.0\PocPaypalApi.dll
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\bin\Debug\net6.0\PocPaypalApi.pdb
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\obj\Debug\net6.0\PocPaypalApi.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\obj\Debug\net6.0\PocPaypalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\obj\Debug\net6.0\PocPaypalApi.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\obj\Debug\net6.0\PocPaypalApi.AssemblyInfo.cs
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\obj\Debug\net6.0\PocPaypalApi.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\obj\Debug\net6.0\PocPaypalApi.dll
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\obj\Debug\net6.0\refint\PocPaypalApi.dll
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\obj\Debug\net6.0\PocPaypalApi.pdb
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\obj\Debug\net6.0\PocPaypalApi.genruntimeconfig.cache
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\obj\Debug\net6.0\ref\PocPaypalApi.dll
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Documentos\GitHub\PocPaypalApi\PocPaypalApi\obj\Debug\net6.0\PocPaypalApi.csproj.CopyComplete
